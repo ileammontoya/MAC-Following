@@ -1,0 +1,44 @@
+9c74.1a6f.04ec	Gi0/2/2        
+0800.3e0e.034e	Gi0/2/5        
+0020.d237.b346	Gi0/2/5        
+0020.d237.5597	Gi0/2/5        
+0020.d23b.e660	Gi0/2/5        
+a4be.2be5.b5f7	Gi0/2/5        
+b443.2600.f285	Gi0/2/5        
+0800.3e0e.0343	Gi0/2/0        
+0020.d23b.e564	Gi0/2/5        
+0800.3e0e.03da	Gi0/2/5        
+04fe.8dc0.3ac3	Gi0/2/3        
+0800.3e0e.06ec	Gi0/2/5        
+0020.d237.a3ef	Gi0/2/5        
+0020.d237.555e	Gi0/2/5        
+346a.c25d.164c	Gi0/2/5        
+0800.3e0e.068c	Gi0/2/5        
+0020.d237.b353	Gi0/2/5        
+04fe.8dc0.3ac3	Gi0/2/3        
+0020.d237.e94e	Gi0/2/5        
+0020.d237.9689	Gi0/2/5        
+0020.d237.a8b8	Gi0/2/5        
+0020.d237.a9b8	Gi0/2/5        
+0800.3e0e.0322	Gi0/2/5        
+9c74.1a6f.04ec	Gi0/2/2        
+b443.2600.f285	Gi0/2/5        
+0020.d237.a5e6	Gi0/2/5        
+0020.d237.882d	Gi0/2/5        
+0800.3edd.8be1	Gi0/2/5        
+0020.d23f.d774	Gi0/2/5        
+a4be.2be5.b5f7	Gi0/2/5        
+b443.2600.f285	Gi0/2/5        
+b443.2600.f285	Gi0/2/5        
+9c74.1a6f.04ec	Gi0/2/2        
+0020.d237.8523	Gi0/2/5        
+0020.d241.6e7a	Gi0/2/5        
+0020.d237.a4b0	Gi0/2/5        
+
+
+--------------------------------------------------
+
+Interface Gi0/2/2         - Neighbor hacia 2G_3G_LTE_GO_PARQUE_MORAZAN _XT_(5066)
+Interface Gi0/2/5         - Neighbor GNCYGTPAS1D3C01B03EIM2
+Interface Gi0/2/0         - Neighbor GESTION_MW_ COLEGIO LA PATRIA_XT_TR 4240- 380024_MOR                            AZAN
+Interface Gi0/2/3         - Neighbor MW TRAFICO COLEGIO LA PATRIA_XT_TR 4240 - 380024_MOR                            AZAN

@@ -1,0 +1,83 @@
+b443.2673.16c6	Gi0/1
+881d.fc17.4420	Gi0/1
+b443.2673.128e	Gi0/1
+001f.9f74.41e8	Gi0/1
+0021.9431.537f	Gi0/1
+0021.9434.1a9f	Gi0/1
+0024.1787.f446	Gi0/1
+0026.44bf.ba0c	Gi0/1
+3091.8f0b.45fe	Gi0/1
+7c39.53f8.f3d7	Gi0/1
+b443.2673.128e	Gi0/1
+d060.8c0d.1168	Gi0/1
+f88e.85bb.b451	Gi0/1
+b443.2673.128e	Gi0/1
+b443.2673.128e	Gi0/1
+0013.b604.a4e7	Fa0/24
+0016.b5ca.5828	Fa0/4
+0016.b5ca.5840	Fa0/5
+a415.8839.eb40	Fa0/1
+a415.8839.fdfa	Fa0/14
+b443.2673.128e	Gi0/1
+ec9e.cd08.dea8	Fa0/6
+ec9e.cd1e.6022	Fa0/15
+0011.0700.95ca	Fa0/11
+0011.0700.a4fa	Fa0/20
+0011.0700.bf0a	Fa0/19
+0018.4800.237c	Fa0/16
+0018.4800.238e	Fa0/17
+0018.480c.33c7	Fa0/13
+0018.4812.2aad	Fa0/12
+18b8.1fff.ded4	Fa0/8
+3c75.4a72.c0e2	Fa0/10
+a069.8602.6604	Fa0/18
+b443.2673.128e	Gi0/1
+cc7d.3781.5686	Fa0/9
+b443.2673.128e	Gi0/1
+0035.1ab6.af40	Gi0/1
+0042.68ed.a9a0	Gi0/1
+6cb2.aee8.8e20	Gi0/1
+b07d.47e6.5c15	Gi0/1
+b08b.cff5.e8c0	Gi0/1
+b443.2673.16c6	Gi0/1
+f07f.060d.06c0	Gi0/1
+f07f.062c.efc0	Gi0/1
+1409.dcaf.528f	Gi0/2
+2841.c6ab.3cf2	Gi0/1
+2841.c6ab.3d6a	Gi0/1
+3400.a348.8771	Gi0/1
+3400.a348.d049	Gi0/1
+8cfd.1860.edef	Gi0/1
+9835.ed32.d4dc	Gi0/1
+9c71.3ab4.5a91	Gi0/1
+b443.2673.128e	Gi0/1
+bc62.0e0c.c626	Gi0/1
+ccbb.fef6.475c	Gi0/1
+1409.dcaf.528f	Gi0/2
+b443.2673.128e	Gi0/1
+1409.dcaf.528f	Gi0/2
+b443.2673.128e	Gi0/1
+
+
+--------------------------------------------------
+
+Interface Gi0/1 - Neighbor LIBRERIA_ARTEMIS_EDINTE
+Interface Fa0/24 - Neighbor LOU-SLMSLINGB-H1
+Interface Fa0/4 - Neighbor LOU-MISHFC GX-H1
+Interface Fa0/5 - Neighbor LOU-MISHFC GX-H2
+Interface Fa0/1 - Neighbor LOU-MISHFC CHP-H1
+Interface Fa0/14 - Neighbor CHP_1_R_E6KG2_2
+Interface Fa0/6 - Neighbor LOU-MISPATHTR-H1
+Interface Fa0/15 - Neighbor HCU_E6KG2_2
+Interface Fa0/11 - Neighbor LOU-MOTSEP48--H1
+Interface Fa0/20 - Neighbor LOU-MOTSEP48--H2
+Interface Fa0/19 - Neighbor LOU-MOTSEMv12M-H1
+Interface Fa0/16 - Neighbor LOU-MOTARPD-2-H1
+Interface Fa0/17 - Neighbor LOU-MOTARPD-2-H2
+Interface Fa0/13 - Neighbor ARPD_E6KG2_2
+Interface Fa0/12 - Neighbor ARPD_E6KG2_1
+Interface Fa0/8 - Neighbor LOU-MOTOM-200-H1
+Interface Fa0/10 - Neighbor HFC APEX (2) MNGT
+Interface Fa0/18 - Neighbor LOU HFC Modulador Calib
+Interface Fa0/9 - Neighbor LOU-MOTSEMv8 -H1
+Interface Gi0/2 - Neighbor UPLINK HACIA POSTE DAHO POZOS (ID 5520) 

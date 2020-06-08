@@ -1,0 +1,26 @@
+b443.2673.128e	Gi0/2/0        
+b443.2673.128e	Gi0/2/0        
+8069.33c0.b5ea	Gi0/2/0        
+f063.f917.5425	Gi0/2/0        
+b443.2673.128e	Gi0/2/0        
+9835.ed32.d30d	Gi0/2/0        
+9c71.3ab4.5a91	Gi0/2/0        
+2841.c6ab.3d6a	Gi0/2/0        
+2841.c6ab.3cf2	Gi0/2/0        
+b443.2673.16c6	Gi0/2/0        
+ec4d.4773.91d2	Gi0/2/0        
+8038.bc16.ea56	Gi0/2/9        
+8cfd.1860.edef	Gi0/2/0        
+9835.ed32.d4dc	Gi0/2/0        
+8038.bc16.ea56	Gi0/2/9        
+40ee.dda1.6dfa	Gi0/2/0        
+4482.e516.58dc	Gi0/2/0        
+ec4d.4773.935e	Gi0/2/0        
+ccbb.fef6.475c	Gi0/2/0        
+8cfd.183a.cc93	Gi0/2/0        
+
+
+--------------------------------------------------
+
+Interface Gi0/2/0         - Neighbor GNCYGTLON1D1IGM11
+Interface Gi0/2/9         - Neighbor LTE METRONORTE TC ( ID 3263)

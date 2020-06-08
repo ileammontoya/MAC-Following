@@ -1,0 +1,26 @@
+60fa.9dd1.ffd3	Gi0/2/5        
+3400.a348.d049	Gi0/2/5        
+8069.33c0.b5ea	Gi0/2/5        
+b443.2673.128e	Gi0/2/5        
+dc99.1401.6cab	Gi0/2/2        
+b443.2673.16c6	Gi0/2/5        
+9c71.3ab4.5a91	Gi0/2/5        
+9835.ed32.d30d	Gi0/2/5        
+2841.c6ab.3d6a	Gi0/2/5        
+9835.ed32.d4dc	Gi0/2/5        
+8cfd.1860.edef	Gi0/2/5        
+3400.a3e2.8390	Gi0/2/5        
+3400.a34a.6879	Gi0/2/5        
+b443.2673.128e	Gi0/2/5        
+bc62.0e0c.c626	Gi0/2/5        
+3400.a348.8771	Gi0/2/5        
+ec4d.4773.976b	Gi0/2/5        
+8cfd.183a.cc93	Gi0/2/5        
+dc99.1401.6cab	Gi0/2/2        
+b443.2673.128e	Gi0/2/5        
+
+
+--------------------------------------------------
+
+Interface Gi0/2/5         - Neighbor GNCYGTSAN1C1101A01F8M2
+Interface Gi0/2/2         - Neighbor hacia 3G_LTE_GO_RESIDENCIALES CASA GRANDE _(4353)
